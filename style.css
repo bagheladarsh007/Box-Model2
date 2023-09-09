@@ -9,6 +9,7 @@ html{
 }
 
 .container{
+    max-width: 800px;
     height: 70vh;
     width:50vw;
     display: flex;
