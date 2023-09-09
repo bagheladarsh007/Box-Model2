@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html{
+    font-size: 28px;
+    font-weight: 300px;
+}
+
+.container{
+    height: 70vh;
+    width:50vw;
+    display: flex;
+	flex-direction: column;
+	margin: 40px 50px;
+    
+}
+
+.brdneed{
+    border : 3px solid red;
+}
+
+h1,
+p,
+footer,
+ a{
+	margin: 30px 20px;
+}
+
+ul{
+    margin: 30px 20px;
+    padding: 12px;
+}
+li{
+    height: 40px;
+}
+
+button {
+	height: 40px;
+	width: 80px;
+	font-size: 16px
+}
+inner{
+    padding: 5px;
+}
+
+a{
+    padding: 10px;
+}
